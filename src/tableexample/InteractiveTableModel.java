@@ -1,6 +1,5 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * from http://www.javalobby.org/articles/jtable/?source=archives
  */
 package tableexample;
 
